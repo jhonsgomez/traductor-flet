@@ -1,0 +1,6 @@
+flet==0.24.1
+opencv-python==4.7.0.72
+mediapipe==0.10.5
+scikit-learn==1.6.1
+numpy>=1.23
+pyinstaller==6.15.0
