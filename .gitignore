@@ -1,4 +1,5 @@
 venv/
 /modelo/*
 !/modelo/.gitkeep
-__pycache__/
+utils/__pycache__/*
+pages/__pycache__/*
